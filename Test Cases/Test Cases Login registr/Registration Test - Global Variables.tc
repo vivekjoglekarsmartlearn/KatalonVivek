@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Test - Global Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>591b62ee-c890-4b1e-83ea-a2411ae5cc9d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff9667c2-4797-4c45-9716-e3a99fd85333</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f84aba1-d8f0-4e98-a90e-f1c093254880</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8a90731-c8e7-496b-8474-ae4e56fb3084</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de6fec91-3fe4-4e48-980d-918bd18aa044</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ravi Reddy'</defaultValue>
+      <description></description>
+      <id>ff9667c2-4797-4c45-9716-e3a99fd85333</id>
+      <masked>false</masked>
+      <name>FullName</name>
+   </variable>
+   <variable>
+      <defaultValue>'7643 Blank Street'</defaultValue>
+      <description></description>
+      <id>8f84aba1-d8f0-4e98-a90e-f1c093254880</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>'ravi@outlook.com'</defaultValue>
+      <description></description>
+      <id>c8a90731-c8e7-496b-8474-ae4e56fb3084</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'7067485465'</defaultValue>
+      <description></description>
+      <id>de6fec91-3fe4-4e48-980d-918bd18aa044</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+</TestCaseEntity>

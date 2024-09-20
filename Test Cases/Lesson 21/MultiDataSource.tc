@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiDataSource</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e59d594-05bb-4fad-b723-ff54460b61ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9edb0a63-5625-4874-ba4f-4c85f3ea2fab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>887bdad6-b561-4599-9785-c429f10cae67</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3c9cc78-f7e2-465c-81fa-5bada4e80ce3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>9edb0a63-5625-4874-ba4f-4c85f3ea2fab</id>
+      <masked>false</masked>
+      <name>Quantity</name>
+   </variable>
+   <variable>
+      <defaultValue>'ravireddy4qa@gmail.com'</defaultValue>
+      <description></description>
+      <id>887bdad6-b561-4599-9785-c429f10cae67</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Havefun@123'</defaultValue>
+      <description></description>
+      <id>c3c9cc78-f7e2-465c-81fa-5bada4e80ce3</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
